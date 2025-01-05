@@ -1,34 +1,37 @@
 {
-  "name": "My AltStore Source",
+  "name": "Kodi 21.1 [FAN MADE]",
   "identifier": "com.example.altstore",
   "apps": [
     {
       "name": "MyApp",
-      "bundleIdentifier": "com.example.myapp",
-      "developerName": "Developer Name",
+      "bundleIdentifier": "org.xbmc.kodi-ios",
+      "developerName": "Kodi Dev + FAN MADE SLURD",
       "subtitle": "App description",
       "localizedDescription": "Full app description",
-      "iconURL": "https://example.com/icon.png",
-      "tintColor": "ff0000",
+      "iconURL": "https://static-00.iconduck.com/assets.00/kodi-icon-2048x2048-qejqrfp6.png",
+      "tintColor": "17b2e7",
       "screenshotURLs": [
-        "https://example.com/screenshot1.png"
+        "https://buzzheavier.com/mj9walxct5fy/download",
+        "https://buzzheavier.com/olwh3g5s6nkb/download",
+        "https://buzzheavier.com/13v1evoytodn/download",
+        "https://buzzheavier.com/nb6dt4fj25ca/download"
       ],
       "beta": false,
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "21.1",
           "date": "2024-01-01T00:00:00.0000000Z",
           "localizedDescription": "Initial release",
-          "downloadURL": "https://example.com/app.ipa",
+          "downloadURL": "https://buzzheavier.com/igf292umxhfv/download",
           "size": 1000000,
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         }
       ],
-      "version": "1.0.0",
+      "version": "21.1",
       "versionDate": "2024-01-01T00:00:00.0000000Z",
       "versionDescription": "Initial release",
-      "downloadURL": "https://example.com/app.ipa",
+      "downloadURL": "https://buzzheavier.com/igf292umxhfv/download",
       "size": 1000000
     }
   ],
