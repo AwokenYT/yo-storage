@@ -1,0 +1,36 @@
+{
+  "name": "My AltStore Source",
+  "identifier": "com.example.altstore",
+  "apps": [
+    {
+      "name": "MyApp",
+      "bundleIdentifier": "com.example.myapp",
+      "developerName": "Developer Name",
+      "subtitle": "App description",
+      "localizedDescription": "Full app description",
+      "iconURL": "https://example.com/icon.png",
+      "tintColor": "ff0000",
+      "screenshotURLs": [
+        "https://example.com/screenshot1.png"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-01-01T00:00:00.0000000Z",
+          "localizedDescription": "Initial release",
+          "downloadURL": "https://example.com/app.ipa",
+          "size": 1000000,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "99.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2024-01-01T00:00:00.0000000Z",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://example.com/app.ipa",
+      "size": 1000000
+    }
+  ],
+  "news": []
+}
